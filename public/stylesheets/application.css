@@ -1,0 +1,16 @@
+body {
+  background-color: seagreen;
+}
+
+p a {
+  color: yellowgreen;
+}
+
+p {
+  font-size: small;
+  color: yellowgreen;
+}
+
+.big-text {
+  font-size: xx-large;
+}
